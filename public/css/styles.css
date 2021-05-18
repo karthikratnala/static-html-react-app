@@ -1,0 +1,101 @@
+span{
+    color: rgb(255, 102, 0);
+    font-size: 6rem;
+    font-family: 'Krona One', sans-serif;
+}
+.about{
+    width: 100%;
+    height: 500px;
+    background-image: url('../images/h1-bdimg.jpg');
+    background-repeat: no-repeat;
+    background-attachment: relative;
+    background-size: 100% 100%;   
+}
+.about h1{
+    font-family: 'Krona One', sans-serif;
+    color: #f1f1ff;
+    font-size: 6rem;
+    padding-top: 30%;
+    padding-left: 2%;
+}
+.quote{
+    padding-top: 3%;
+}
+.quote h2{
+    font-family: 'Karla', sans-serif;
+    font-size: 50px;
+    font-weight: bolder;
+}
+.content1{
+    margin-top: 2%;
+}
+.content1 img{
+    float: left;
+    width: 550px;
+    height: 400px;
+    padding: 2%;
+}
+.content1 h2,p{
+    padding-left:  2%; 
+}
+.content1 h2{
+    font-family: 'Karla', sans-serif;
+    color:  rgb(255, 102, 0);
+    font-size: 40px;
+    padding-top: 5%;
+}
+.content1 p{
+    font-size: 20px;
+}
+.content2{
+    margin-top: 2%;
+}
+.content2 img{
+    float: right;
+    width: 550px;
+    height: 400px;
+    padding: 2%;
+}
+.content2 h2,p{
+    padding-right:  2%; 
+}
+.content2 h2{
+    font-family: 'Karla', sans-serif;
+    color:  rgb(255, 102, 0);
+    font-size: 40px;
+    padding-top: 5%;
+    padding-left: 2%;
+}
+.content2 p{
+    font-size: 20px;
+}
+.team {
+    font-family: 'Krona One', sans-serif;
+    color: black;
+    font-size: 5rem;
+    padding-top: 3%;
+    padding-left: 2%;
+    padding-bottom: 3%;
+}
+.social-link {
+    width: 30px;
+    height: 30px;
+    border: 1px solid #ddd;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #666;
+    border-radius: 50%;
+    transition: all 0.3s;
+    font-size: 0.9rem;
+}
+  
+.social-link:hover,
+.social-link:focus {
+    background: #ddd;
+    text-decoration: none;
+    color: #555;
+}
+#card:hover{
+    opacity: 0.8;
+}
