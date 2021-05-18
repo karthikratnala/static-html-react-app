@@ -28,7 +28,7 @@ function Login() {
 
           </label>
 
-          <button type="submit" class="btn btn-primary theme-button mt-4">Log in</button>
+          <button type="submit" class="btn btn-orange theme-button mt-4">Log in</button>
           <div class="new-signup">
             <a href="/login" class="signuplink">Forgot username or password?</a>
 

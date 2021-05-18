@@ -28,7 +28,7 @@ function SignUp() {
                     <div class="form-input">
                       <input type="password" name="password" placeholder="Confirm Password" required="" />
                     </div>
-                    <button type="submit" class="btn btn-primary theme-button mt-4">Sign Up</button>
+                    <button type="submit" class="btn btn-orange  theme-button mt-4">Sign Up</button>
                   </form>
                   <p class="signup">Already registered? <a href="/login" class="signuplink">Login now</a></p>
                 </div>
